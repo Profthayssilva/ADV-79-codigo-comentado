@@ -1,0 +1,24 @@
+/* 
+CSS dentro de style.css:
+○ Teremos margin, para que sua aparência seja limpa */
+#submitButton
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sortButton
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+
+/* CSS dentro de style.css para a caixa de inserção:
+○ Fornecemos margin:10px, já que queremos que tenha uma
+aparência limpa. */
+
+input
+{
+	margin: 10px;
+}
